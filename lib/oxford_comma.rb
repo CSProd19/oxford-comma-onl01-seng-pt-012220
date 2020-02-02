@@ -1,3 +1,8 @@
 def oxford_comma(array)
- "fiddleheads, okra, and kohlrabi".split (",")
+ 
+ if array.length < 2 
+   
+    array.first 
+    
+  elsif array.length 
 end
